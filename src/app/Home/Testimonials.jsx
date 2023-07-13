@@ -18,7 +18,7 @@ const Testimonials = () => {
             <Container>
                 <div>
                     <div className='text-center'>
-                        <h3 className='text-sky-600 font-extrabold text-2xl'>Testimonial</h3>
+                        <h3 className='text-sky-600 font-semibold text-2xl uppercase'>Testimonial</h3>
                         <h2 className='text-sky-950 text-6xl font-extrabold mt-4'>What Our Clients Say </h2>
 
                     </div>

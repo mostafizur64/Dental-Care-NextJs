@@ -7,7 +7,7 @@ const Pricing = () => {
         <div>
               <Container>
                 <div className='text-center mt-12'>
-                    <h3 className='text-sky-600 text-xl font-semibold uppercase'>Our Pricing</h3>
+                    <h3 className='text-sky-600 text-2xl font-semibold uppercase'>Our Pricing</h3>
                     <h2 className='text-5xl font-bold text-sky-900 mt-4'>Great Pricing Offers</h2>
                 </div>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-4 mt-12'>

@@ -6,7 +6,7 @@ const Service = () => {
         <Container>
             <div className='mt-28'>
                 <div className='text-center'>
-                    <h3 className=' text-sky-600 text-2xl font-semibold'>Our Service</h3>
+                    <h3 className=' text-sky-600 text-2xl font-semibold uppercase'>Our Service</h3>
                     <h2 className='font-extrabold text-6xl text-sky-950 mt-4'>What We Provide</h2>
                 </div>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-3 mt-12'>
